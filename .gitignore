@@ -1,0 +1,24 @@
+# Dependencias de Node.js
+/node_modules
+
+# Archivo de registro npm
+npm-debug.log
+
+# Archivos generados por Yarn
+/yarn-error.log
+
+# Archivos de construcción
+/build
+
+# Archivos de registro
+/logs
+
+# Entorno local (por ejemplo, .env)
+.env
+
+# Carpeta de caché de npm
+.npm
+
+# Carpetas de caché de Yarn
+.yarn
+.yarn-cache
